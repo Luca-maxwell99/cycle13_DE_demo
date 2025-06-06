@@ -12,3 +12,5 @@ Hello, world! - this is the edit to my file!
 Next, add a new line at the end of this file:
 
 This is a new line of text.
+
+another change
