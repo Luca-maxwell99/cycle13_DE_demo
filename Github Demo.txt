@@ -10,3 +10,5 @@ Update the following line from "Hello, World!" to "Hello, Github!":
 Hello, world! - this is the edit to my file!
 
 Next, add a new line at the end of this file:
+
+This is a new line of text.
